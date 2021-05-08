@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/temperature-now/static/css/main.08d3f970.chunk.css",
+    "main.js": "/temperature-now/static/js/main.58d7ea8d.chunk.js",
+    "main.js.map": "/temperature-now/static/js/main.58d7ea8d.chunk.js.map",
+    "runtime-main.js": "/temperature-now/static/js/runtime-main.80864da3.js",
+    "runtime-main.js.map": "/temperature-now/static/js/runtime-main.80864da3.js.map",
+    "static/js/2.f7dc4232.chunk.js": "/temperature-now/static/js/2.f7dc4232.chunk.js",
+    "static/js/2.f7dc4232.chunk.js.map": "/temperature-now/static/js/2.f7dc4232.chunk.js.map",
+    "static/js/3.fc0c74c1.chunk.js": "/temperature-now/static/js/3.fc0c74c1.chunk.js",
+    "static/js/3.fc0c74c1.chunk.js.map": "/temperature-now/static/js/3.fc0c74c1.chunk.js.map",
+    "index.html": "/temperature-now/index.html",
+    "static/css/main.08d3f970.chunk.css.map": "/temperature-now/static/css/main.08d3f970.chunk.css.map",
+    "static/js/2.f7dc4232.chunk.js.LICENSE.txt": "/temperature-now/static/js/2.f7dc4232.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/temperature-now/static/media/app.6cc8c02a.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.80864da3.js",
+    "static/js/2.f7dc4232.chunk.js",
+    "static/css/main.08d3f970.chunk.css",
+    "static/js/main.58d7ea8d.chunk.js"
+  ]
+}
